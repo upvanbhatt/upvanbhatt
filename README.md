@@ -1,5 +1,5 @@
 # 💫 About Me:
- ## 👨‍💻 About Me<br><br>AI/ML student passionate about problem-solving and intelligent systems.  <br>Skilled in Python with working knowledge of Java.  <br>Currently improving Data Structures and Machine Learning fundamentals.
+ <br><br>AI/ML student passionate about problem-solving and intelligent systems.  <br>Skilled in Python with working knowledge of Java.  <br>Currently improving Data Structures and Machine Learning fundamentals.
 
 
 # 💻 Tech Stack:
